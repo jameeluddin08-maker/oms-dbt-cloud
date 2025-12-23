@@ -1,0 +1,12 @@
+sources:
+  - name: landing
+    schema: L1_LANDING
+    tables:
+      - name: customers
+        identifier: customers
+
+      - name: orders
+        identifier: orders
+
+      - name: orderitems
+        identifier: orderitems
